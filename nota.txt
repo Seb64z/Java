@@ -8,3 +8,13 @@ cat = ver  contenido archivo
 clear = limpia pantalla terminal
 ctrl + l = lo mismo ||
 history = Listar comandos escritos en terminal
+///////////////////////////////////////////
+Comandos git
+//////////////////////////////////////////
+git clone = clonar repositorio donde esté
+git status = ve estado de estación
+git log = ve trackeos o commit
+git add . = agrega todos los archivos
+git commit -m "Segundo viaje" = trackeo, nombre clave
+git push origin main = subir al server
+git pull origin main = actualiza
