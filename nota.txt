@@ -18,3 +18,4 @@ git add . = agrega todos los archivos
 git commit -m "Segundo viaje" = trackeo, nombre clave
 git push origin main = subir al server
 git pull origin main = actualiza
+Sebastián Acosta
