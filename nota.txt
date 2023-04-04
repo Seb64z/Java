@@ -1,0 +1,10 @@
+mkdir = Crear carpeta
+cd proyecto = Ingresar a carpeta proyecto
+cd .. = salir de carpeta
+touch = crear archivos
+nano = bloc de notas
+rm -R = eliminar archivo
+cat = ver  contenido archivo
+clear = limpia pantalla terminal
+ctrl + l = lo mismo ||
+history = Listar comandos escritos en terminal
